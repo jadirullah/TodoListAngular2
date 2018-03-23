@@ -15,4 +15,4 @@
 ```
 
 ## preview app
-![alt text](https://github.com/jadirullah/TodoListAngular2/gambar.png)
+![alt text](https://github.com/jadirullah/TodoListAngular2/blob/master/gambar.png)
